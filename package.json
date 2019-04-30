@@ -1,0 +1,23 @@
+{
+  "name": "Bits_by_Dream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d UI"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenny1995/Dreami.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenny1995/Dreami/issues"
+  },
+  "homepage": "https://Kenny1995.github.io/Dreami",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
